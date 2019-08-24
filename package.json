@@ -1,0 +1,15 @@
+{
+  "name": "national-rail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@stomp/stompjs": "^5.4.2",
+    "text-encoding": "^0.7.0"
+  }
+}
